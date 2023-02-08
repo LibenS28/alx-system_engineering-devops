@@ -1,0 +1,1 @@
+prints current absolute path
