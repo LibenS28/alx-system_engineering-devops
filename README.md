@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+list of scripts
